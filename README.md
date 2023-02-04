@@ -9,9 +9,6 @@ https://github.com/CarmineD8/rt2_assignment1.git
 
 and the requirment is to control a robot in the vrep scene with the ROS is developed and updated in this repository
 
-https://github.com/yeshwanthguru/Research_Track2.git
-
-package tree Peek 2021-12-26 16-11
 
 Among the given packages there are four nodes developed
 

@@ -36,7 +36,7 @@ catkin_make
 clone the repository 
 
 ```
-git clone -b ros2 https://github.com/vikasreddy636/rt2_assignment1.git
+git clone -b ros2 https://github.com/Iamazad21/rs_track2finalassign/edit/ros2/README.md
 
 ```
 
